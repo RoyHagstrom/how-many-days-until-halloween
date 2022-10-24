@@ -4,8 +4,8 @@
     --accent: #B761EF;
     --alt-accent: #2de02d;
     --lg: 50px;
-    --display-font: 'Bungee Shade', cursive;
-    --copy-font: 'Roboto', Arial, Helvetica, sans-serif;
+    --display-font: 'poppins', cursive;
+    --copy-font: 'Poppins', Arial, Helvetica, sans-serif;
 }
 
 body {
